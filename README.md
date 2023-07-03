@@ -1,5 +1,3 @@
-# Customized Makefile features
-
 ## This is a little Project of mine where I show some customized feature for a Makefile using <a href="https://github.com/Mattei-Giovanni/Bash-Color-Sequences">ANSI color sequences</a>
 
 ### Loading bars

@@ -19,7 +19,7 @@
   <tr>
     <td>
       <h3 align="center"> Completion Bar - 1<br><br>
-      <img src="https://github.com/Mattei-Giovanni/Makefile-custom/blob/main/Completion-bars/Completion-bar-1.gif"></table>
+      <img src="https://github.com/Mattei-Giovanni/Makefile-custom/blob/main/Completion-bar/Completion-bar-1.gif"></table>
 
 ## <p align="center"> Default (Complete) Bars
 <table align="center">

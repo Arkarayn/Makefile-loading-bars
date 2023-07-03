@@ -3,7 +3,7 @@ BARS := "▰▰▱▱▱▱▱▱▱▱ 23%" "▰▰▰▰▱▱▱▱▱▱ 45%
 all: $(NAME)
 	@for bar in $(BARS); do \
 		clear; \
-        echo "\n\n\n\t\t\t\033[1;31m$$bar\033[0m"; \
-        sleep 0.08; \
+        echo "\n\n\n\t\t     \033[1;31m$$bar\033[0m"; \
+        sleep 0.4; \
     done
 	clear

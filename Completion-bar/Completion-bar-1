@@ -1,0 +1,5 @@
+all:
+	clear
+	@echo "\n\n\t\t❈────────•✦•❅•✦•───────❈";
+	@echo "\t\t\033[1;3;5;32m    LOADING COMPLETED\033[0m";
+	@echo "\t\t❈────────•✦•❅•✦•───────❈\n\n";

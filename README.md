@@ -1,7 +1,6 @@
-# Makefile-loading-bar
-Part of a makefile featuring customization (use of ANSI sequences, loading bars)
+#Customized Makefile features (ex. loading bars)
 
-## Loading bars
+### Loading bars
 <table>
   <tr>
     <td>

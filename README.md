@@ -1,4 +1,4 @@
-# This Project includes customized Makefile features that uses <br> <p align="center">ANSI color sequences</a>
+# This Project includes customized Makefile features that uses <p align="center">ANSI color sequences</a>
 
 ## <p align="center"> Loading Bars
 <p align="center"> I used default slow speed to see better the transitions, to slow the loading just reduce the sleep inside the for cycle
